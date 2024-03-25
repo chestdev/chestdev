@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Kauã 👋
 
-Bem atualmente tenho 16 anos, programo desde de meus 12 anos, vi que a programação era uma coisa que me interessava bastante então estou agora neste ramo de programação. Comececi no Multi Theft Auto fazendo alguns scripts entre outras coisas, assim fui expandindo meu conhecimento em outras linguagens.
+Bem atualmente tenho 15 anos, programo desde de meus 11 anos, vi que a programação era uma coisa que me interessava bastante então estou agora neste ramo de programação. Comececi no Multi Theft Auto fazendo alguns scripts entre outras coisas, assim fui expandindo meu conhecimento em outras linguagens.
 
 
 **Minhas Skills**
